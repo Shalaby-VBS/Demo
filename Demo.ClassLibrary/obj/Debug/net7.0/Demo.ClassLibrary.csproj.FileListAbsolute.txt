@@ -1,0 +1,12 @@
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ClassLibrary/bin/Debug/net7.0/Demo.ClassLibrary.deps.json
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ClassLibrary/bin/Debug/net7.0/Demo.ClassLibrary.dll
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ClassLibrary/bin/Debug/net7.0/Demo.ClassLibrary.pdb
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ClassLibrary/obj/Debug/net7.0/Demo.ClassLibrary.csproj.AssemblyReference.cache
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ClassLibrary/obj/Debug/net7.0/Demo.ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ClassLibrary/obj/Debug/net7.0/Demo.ClassLibrary.AssemblyInfoInputs.cache
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ClassLibrary/obj/Debug/net7.0/Demo.ClassLibrary.AssemblyInfo.cs
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ClassLibrary/obj/Debug/net7.0/Demo.ClassLibrary.csproj.CoreCompileInputs.cache
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ClassLibrary/obj/Debug/net7.0/Demo.ClassLibrary.dll
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ClassLibrary/obj/Debug/net7.0/refint/Demo.ClassLibrary.dll
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ClassLibrary/obj/Debug/net7.0/Demo.ClassLibrary.pdb
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ClassLibrary/obj/Debug/net7.0/ref/Demo.ClassLibrary.dll

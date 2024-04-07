@@ -1,0 +1,175 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.HyperClassLibrary/Demo.HyperClassLibrary.csproj": {}
+  },
+  "projects": {
+    "/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ClassLibrary/Demo.ClassLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ClassLibrary/Demo.ClassLibrary.csproj",
+        "projectName": "Demo.ClassLibrary",
+        "projectPath": "/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ClassLibrary/Demo.ClassLibrary.csproj",
+        "packagesPath": "/Users/ahmedshalaby/.nuget/packages/",
+        "outputPath": "/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ClassLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ahmedshalaby/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.313/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.HyperClassLibrary/Demo.HyperClassLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.HyperClassLibrary/Demo.HyperClassLibrary.csproj",
+        "projectName": "Demo.HyperClassLibrary",
+        "projectPath": "/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.HyperClassLibrary/Demo.HyperClassLibrary.csproj",
+        "packagesPath": "/Users/ahmedshalaby/.nuget/packages/",
+        "outputPath": "/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.HyperClassLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ahmedshalaby/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.projectx/Demo.ConsoleApplication.csproj": {
+                "projectPath": "/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.projectx/Demo.ConsoleApplication.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.313/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.projectx/Demo.ConsoleApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.projectx/Demo.ConsoleApplication.csproj",
+        "projectName": "Demo.ConsoleApplication",
+        "projectPath": "/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.projectx/Demo.ConsoleApplication.csproj",
+        "packagesPath": "/Users/ahmedshalaby/.nuget/packages/",
+        "outputPath": "/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.projectx/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ahmedshalaby/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ClassLibrary/Demo.ClassLibrary.csproj": {
+                "projectPath": "/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ClassLibrary/Demo.ClassLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.313/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

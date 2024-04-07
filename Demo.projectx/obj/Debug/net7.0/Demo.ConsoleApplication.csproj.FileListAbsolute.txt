@@ -1,0 +1,5 @@
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.projectx/obj/Debug/net7.0/Demo.ConsoleApplication.csproj.AssemblyReference.cache
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.projectx/obj/Debug/net7.0/Demo.ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.projectx/obj/Debug/net7.0/Demo.ConsoleApplication.AssemblyInfoInputs.cache
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.projectx/obj/Debug/net7.0/Demo.ConsoleApplication.AssemblyInfo.cs
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.projectx/obj/Debug/net7.0/Demo.ConsoleApplication.csproj.CoreCompileInputs.cache

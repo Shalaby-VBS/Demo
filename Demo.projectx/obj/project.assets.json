@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Demo.ClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Demo.ClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Demo.ClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo.ClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../Demo.ClassLibrary/Demo.ClassLibrary.csproj",
+      "msbuildProject": "../Demo.ClassLibrary/Demo.ClassLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Demo.ClassLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/ahmedshalaby/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.projectx/Demo.ConsoleApplication.csproj",
+      "projectName": "Demo.ConsoleApplication",
+      "projectPath": "/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.projectx/Demo.ConsoleApplication.csproj",
+      "packagesPath": "/Users/ahmedshalaby/.nuget/packages/",
+      "outputPath": "/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.projectx/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/ahmedshalaby/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ClassLibrary/Demo.ClassLibrary.csproj": {
+              "projectPath": "/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ClassLibrary/Demo.ClassLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.313/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

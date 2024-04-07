@@ -1,0 +1,15 @@
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ConsoleApplication2/bin/Debug/net7.0/Demo.ConsoleApplication2
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ConsoleApplication2/bin/Debug/net7.0/Demo.ConsoleApplication2.deps.json
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ConsoleApplication2/bin/Debug/net7.0/Demo.ConsoleApplication2.runtimeconfig.json
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ConsoleApplication2/bin/Debug/net7.0/Demo.ConsoleApplication2.dll
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ConsoleApplication2/bin/Debug/net7.0/Demo.ConsoleApplication2.pdb
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ConsoleApplication2/obj/Debug/net7.0/Demo.ConsoleApplication2.csproj.AssemblyReference.cache
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ConsoleApplication2/obj/Debug/net7.0/Demo.ConsoleApplication2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ConsoleApplication2/obj/Debug/net7.0/Demo.ConsoleApplication2.AssemblyInfoInputs.cache
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ConsoleApplication2/obj/Debug/net7.0/Demo.ConsoleApplication2.AssemblyInfo.cs
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ConsoleApplication2/obj/Debug/net7.0/Demo.ConsoleApplication2.csproj.CoreCompileInputs.cache
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ConsoleApplication2/obj/Debug/net7.0/Demo.ConsoleApplication2.dll
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ConsoleApplication2/obj/Debug/net7.0/refint/Demo.ConsoleApplication2.dll
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ConsoleApplication2/obj/Debug/net7.0/Demo.ConsoleApplication2.pdb
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ConsoleApplication2/obj/Debug/net7.0/Demo.ConsoleApplication2.genruntimeconfig.cache
+/Users/ahmedshalaby/MyPrivate/Study/Demo/Demo.ConsoleApplication2/obj/Debug/net7.0/ref/Demo.ConsoleApplication2.dll
